@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# Starter for Inversion of Control on TypeScript
+# Starter for *Inversion of Control* on *TypeScript*
 
 UNDER DEVELOPMENT
 
