@@ -2,6 +2,8 @@
 
 # Starter for Inversion of Control on TypeScript
 
+UNDER DEVELOPMENT
+
 ---
 
 ## Feature tags
@@ -28,9 +30,7 @@
 
 ## Compilation
 
-```sh
-tsc index.ts
-```
+TBD
 
 --- 
 ## Running
